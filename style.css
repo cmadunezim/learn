@@ -1,1 +1,50 @@
 
+body {
+    background-color: gold;
+    color: white;
+    width: 10%;
+    height: 400%;
+    background-image: url(./UTEP-D-Line-5.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+p{
+    text-align: center;
+    font-size: 100px;
+    color: blue;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: blue;
+}
+/* 
+li{
+    font-size:  50px;
+} */
